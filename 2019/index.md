@@ -16,7 +16,6 @@
 * **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)** [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html)
 * **6117810011 - [Wissanu Sameejaeng](https://lifestreamone.github.io/)** ([Hello world](https://github.com/lifestreamone/lifestreamone.github.io/blob/master/heloworld.py))
 * **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
-* **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
 * **6117810012 - [Yuttapon Kunkot](https://ghost0000heavy.github.io/)**
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)** ([Hello World](https://github.com/TwinZabX2/TwinZabX2.github.io/blob/master/HelloWorldByToss.py))
 * **6117810017 - Shirassuda Thongpahkdhi**
