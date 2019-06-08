@@ -2,7 +2,7 @@
 
 ---
 
-https://gitlab.com/NEIS0736/2019/wikis/README
+[GitLab Wiki](https://gitlab.com/NEIS0736/2019/wikis/README)
 
 ---
 
