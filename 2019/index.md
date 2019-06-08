@@ -10,7 +10,6 @@
 <<<<<<< HEAD
 * **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)** ([Hello World](https://github.com/dunlawan/dunlawan.github.io/blob/master/HelloWorld.html))
 * **6117810001 - [Raksapon Leelachat](https://raksapon.github.io/)**
-=======
 * **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)**
 * **6117810001 - Raksapon Leelachat**
 >>>>>>> b9f7a3f496a2fa25fdea987f73e3c464b5bbdb55
