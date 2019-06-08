@@ -2,19 +2,18 @@
 
 ---
 
-* **5217810022 - Maykin Warasart** - (Hello World), (aaaa), (bbbb), (cccc), (dddd), (eeee), (gggg), (hhhh), (iiii), (jjjj), (kkkk), (mmmm), (nnnn), (oooo)
 * **5817810004 - Peranol Akkarasarateera**
-* **6017810010 - Pongpat Rakdej** 
+* **6017810010 - [Pongpat Rakdej](https://github.com/pp717)**
 * **6117660004 - Chitsanuphong Thaninthorn**
-* **6117670003 - Suparath Suwannakorth**
+* **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**
 * **6117690002 - Pornvilai Pitakwong**
-* **6117690003 - Dunlawan Sakuldee**
+* **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)**
 * **6117810001 - Raksapon Leelachat**
-* **6117810003 - Sirimongkol Wongfu**
+* **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)**
 * **6117810004 - Tanapad Onsri**
-* **6117810005 - Mutchima Chuensart(https://github.com/mutchimo)**
-* **6117810006 - Chalermwut Likasitwong**
-* **6117810009 - Pongpat Petchai**
+* **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)**
+* **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)**
+* **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)**
 * **6117810011 - Wissanu Sameejaeng**
 * **6117810012 - Yuttapon Kunkot(https://githu.com/yuttapon)**
 * **6117810014 - Pattama Thongprapai**
@@ -24,10 +23,11 @@
 
 ---
 
-**[Maykin W.](https://gitlab.com/NEIS0736/2019/wikis/Maykin-Warasart)**
+**[Maykin W.](https://maeklong.github.io/)**
 * *Siraphum P.*, *Pemika L.* *&* *Angkarn P.*
 
 ---
+* **Markdown Language (https://medium.com/ayuth/%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-markdown-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-6d294b18eb55)**
 
 [**Day 1**] - (Sat) **Jun 8,** 2019
 *  Laptop with internet access
