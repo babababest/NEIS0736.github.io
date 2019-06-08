@@ -22,7 +22,6 @@
 =======
 =======
 * **6117810012 - [Yuttapon Kunkot](https://ghost0000heavy.github.io/)**
-* **6117810014 - Pattama Thongprapai**
 * **6117810016 - Tossaporn Hansing**
 =======
 =======
@@ -37,7 +36,6 @@
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
 * **6117810012 - [Yuttapon Kunkot](https://yuttapon.github.io)**
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
->>>>>>> 82fbbf33f2e6791154b77a59b5f571a950540054
 * **6117810017 - Shirassuda Thongpahkdhi**
 * **Certificate - Thanchanok Laopromsukon**
 
