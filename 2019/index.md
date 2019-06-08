@@ -4,7 +4,7 @@
 
 * **5817810004 - Peranol Akkarasarateera**
 * **6017810010 - [Pongpat Rakdej](https://pp717.github.io/)**
-* **6117660004 - Chitsanuphong Thaninthorn**
+* **6117660004 - [Chitsanuphong Thaninthorn](https://chitsanuphongt.github.io/)**
 * **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**
 * **6117690002 - Pornvilai Pitakwong**
 <<<<<<< HEAD
@@ -17,9 +17,6 @@
 * **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)**
 * **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)** [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html)
 * **6117810011 - Wissanu Sameejaeng**
-* **6117810012 - Yuttapon Kunkot**
-* **6117810014 - Pattama Thongprapai**
-* **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
 * **6117810012 - Yuttapon Kunkot(https://githu.com/yuttapon)**
 * **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
