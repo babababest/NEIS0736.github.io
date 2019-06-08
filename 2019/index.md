@@ -16,7 +16,7 @@
 * **6117810006 - Chalermwut Likasitwong**
 * **6117810009 - Pongpat Petchai**
 * **6117810011 - Wissanu Sameejaeng**
-* **6117810012 - Yuttapon Kunkot**
+* **6117810012 - Yuttapon Kunkot(https://githu.com/yuttapon)**
 * **6117810014 - Pattama Thongprapai**
 * **6117810016 - Tossaporn Hansing**
 * **6117810017 - Shirassuda Thongpahkdhi**
