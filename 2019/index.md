@@ -2,7 +2,6 @@
 
 ---
 
-* **5217810022 - Maykin Warasart** - (Hello World), (aaaa), (bbbb), (cccc), (dddd), (eeee), (gggg), (hhhh), (iiii), (jjjj), (kkkk), (mmmm), (nnnn), (oooo)
 * **5817810004 - Peranol Akkarasarateera**
 * **6017810010 - Pongpat Rakdej(https://github.com/pp717) **
 * **6117660004 - Chitsanuphong Thaninthorn**
@@ -14,7 +13,7 @@
 * **6117810004 - Tanapad Onsri**
 * **6117810005 - [Mutchima Chuensart](https://github.com/mutchimo)**
 * **6117810006 - Chalermwut Likasitwong**
-* **6117810009 - Pongpat Petchai**
+* **6117810009 - Pongpat Petchai(https://numl3er47.github.io/)**
 * **6117810011 - Wissanu Sameejaeng**
 * **6117810012 - Yuttapon Kunkot**
 * **6117810014 - Pattama Thongprapai**
@@ -24,7 +23,7 @@
 
 ---
 
-**[Maykin W.](https://gitlab.com/NEIS0736/2019/wikis/Maykin-Warasart)**
+**[Maykin W.](https://maeklong.github.io/)**
 * *Siraphum P.*, *Pemika L.* *&* *Angkarn P.*
 
 ---
