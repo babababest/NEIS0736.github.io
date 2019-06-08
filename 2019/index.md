@@ -9,7 +9,7 @@
 * **6117690002 - Pornvilai Pitakwong**
 * **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)**
 * **6117810001 - Raksapon Leelachat**
-* **6117810003 - [Sirimongkol Wongfu] https://g3minii.github.io/**
+* **6117810003 - [Sirimongkol Wongfu] (https://g3minii.github.io/)**
 * **6117810004 - Tanapad Onsri**
 <<<<<<< HEAD
 * **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)**
