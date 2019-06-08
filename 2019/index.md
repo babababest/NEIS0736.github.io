@@ -15,16 +15,12 @@
 * **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)**
 * **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)**
 * **6117810011 - Wissanu Sameejaeng**
-<<<<<<< HEAD
-<<<<<<< HEAD
 * **6117810012 - Yuttapon Kunkot**
 * **6117810014 - Pattama Thongprapai**
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
-=======
 * **6117810012 - Yuttapon Kunkot(https://githu.com/yuttapon)**
 * **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
-=======
 * **6117810012 - [Yuttapon Kunkot](https://yuttapon.github.io)**
 * **6117810014 - Pattama Thongprapai**
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
