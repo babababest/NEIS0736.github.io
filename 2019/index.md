@@ -12,10 +12,10 @@
 * **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)** ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py))
 * **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)** ([Hello World](https://github.com/6117810004/6117810004.github.io/blob/master/HelloWorld.py))
 * **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)** ([Hello World](https://github.com/mutchimo/NEIS0736.github.io/blob/master/HelloWorld.py))
-* **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)**([Hello World](https://github.com/MixMawaew/MixMawaew.github.io/blob/master/TestHello.py))
+* **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)** ([Hello World](https://github.com/MixMawaew/MixMawaew.github.io/blob/master/TestHello.py))
 * **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)** [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html)
 * **6117810011 - [Wissanu Sameejaeng](https://lifestreamone.github.io/)** ([Hello world](https://github.com/lifestreamone/lifestreamone.github.io/blob/master/heloworld.py))
-* **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
+* **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)** ([Hello World](https://github.com/pattamatax/pattamatax.github.io/blob/master/helloworld.c))
 * **6117810012 - [Yuttapon Kunkot](https://ghost0000heavy.github.io/)**
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)** ([Hello World](https://github.com/TwinZabX2/TwinZabX2.github.io/blob/master/HelloWorldByToss.py))
 * **6117810017 - Shirassuda Thongpahkdhi**
