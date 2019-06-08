@@ -36,6 +36,7 @@
 *  Laptop with internet access
 *  Your favorite IDE/text editor
 *  Active email account (gmail is preferable)
+*  **Scribe of the day**
 
 [**Day 2**] - (Sat) **Jun 15,** 2019
 
