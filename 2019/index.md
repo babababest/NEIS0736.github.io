@@ -7,13 +7,17 @@
 * **6117660004 - Chitsanuphong Thaninthorn**
 * **6117670003 - Suparath Suwannakorth**
 * **6117690002 - Pornvilai Pitakwong**
-* **6117690003 - Dunlawan Sakuldee**
+* **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)**
 * **6117810001 - Raksapon Leelachat**
 * **6117810003 - [Sirimongkol Wongfu] https://g3minii.github.io/**
 * **6117810004 - Tanapad Onsri**
-* **6117810005 - [Mutchima Chuensart](https://github.com/mutchimo)**
+<<<<<<< HEAD
+* **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)**
+=======
+* **6117810005 - Mutchima Chuensart(https://github.com/mutchimo)**
+>>>>>>> b3128b9ca42f87a4790e5c08e65476206763a07d
 * **6117810006 - Chalermwut Likasitwong**
-* **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)**
+* **6117810009 - Pongpat Petchai**
 * **6117810011 - Wissanu Sameejaeng**
 * **6117810012 - Yuttapon Kunkot**
 * **6117810014 - Pattama Thongprapai**
