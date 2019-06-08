@@ -7,21 +7,21 @@
 * **6117660004 - Chitsanuphong Thaninthorn**
 * **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**
 * **6117690002 - Pornvilai Pitakwong**
+<<<<<<< HEAD
 * **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)** ([Hello World](https://github.com/dunlawan/dunlawan.github.io/blob/master/HelloWorld.html))
 * **6117810001 - [Raksapon Leelachat](https://raksapon.github.io/)**
+=======
+* **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)**
+* **6117810001 - Raksapon Leelachat**
+>>>>>>> b9f7a3f496a2fa25fdea987f73e3c464b5bbdb55
 * **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)**
-* **6117810004 - Tanapad Onsri**
+* **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)**
 * **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)**
 * **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)**
 * **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)**
 * **6117810011 - Wissanu Sameejaeng**
-<<<<<<< HEAD
-* **6117810012 - [Yuttapon Kunkot](https://ghost0000heavy.github.io/yuttapon)**
+* **6117810012 - [Yuttapon Kunkot](https://yuttapon.github.io)**
 * **6117810014 - Pattama Thongprapai**
-=======
-* **6117810012 - Yuttapon Kunkot(https://githu.com/yuttapon)**
-* **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
->>>>>>> 55b04c0eb9ef02b2465ac75c4127ec4d7e4443c5
 * **6117810016 - Tossaporn Hansing**
 * **6117810017 - Shirassuda Thongpahkdhi**
 * **Certificate - Thanchanok Laopromsukon**
@@ -32,7 +32,6 @@
 * *Siraphum P.*, *Pemika L.* *&* *Angkarn P.*
 
 ---
-* **Markdown Language (https://medium.com/ayuth/%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-markdown-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-6d294b18eb55)**
 
 [**Day 1**] - (Sat) **Jun 8,** 2019
 *  Laptop with internet access
