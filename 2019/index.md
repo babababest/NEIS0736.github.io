@@ -5,9 +5,12 @@
 * **5817810004 - Peranol Akkarasarateera**
 * **6017810010 - [Pongpat Rakdej](https://pp717.github.io/)**
 <<<<<<< HEAD
+<<<<<<< HEAD
 * **6117660004 - Chitsanuphong Thaninthorn**
 * **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**
 =======
+=======
+>>>>>>> 757cf09f1654e862d05b076e803d72a86a36e21b
 * **6117660004 - [Chitsanuphong Thaninthorn](https://chitsanuphongt.github.io/)** ([Hello World](https://github.com/chitsanuphongt/chitsanuphongt.github.io/blob/master/HelloWorld.py))
 * **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**  ([Hello World](https://github.com/babababest/babababest.github.io/blob/master/Hello%20World.py))
 >>>>>>> 757cf09f1654e862d05b076e803d72a86a36e21b
