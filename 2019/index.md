@@ -2,8 +2,8 @@
 
 ---
 
-[GitLab Wiki](https://gitlab.com/NEIS0736/2019/wikis/README)
-MiSSxTalks [Registration : http://bit.ly/MiSSxTalksV2](http://bit.ly/MiSSxTalksV2)
+* [GitLab Wiki](https://gitlab.com/NEIS0736/2019/wikis/README)
+* MiSSxTalks [Registration : http://bit.ly/MiSSxTalksV2](http://bit.ly/MiSSxTalksV2)
 
 ---
 
