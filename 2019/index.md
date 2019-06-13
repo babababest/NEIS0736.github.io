@@ -40,6 +40,8 @@
 *  **Scribe of the day**
 
 [**Day 2**] - (Sat) **Jun 15,** 2019
+*  Requirements
+*  Security controls in your everyday life
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
 
