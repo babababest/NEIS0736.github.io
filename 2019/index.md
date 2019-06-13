@@ -25,11 +25,12 @@
 * **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)** ([Hello World](https://github.com/TwinZabX2/TwinZabX2.github.io/blob/master/HelloWorldByToss.py))
 * **6117810017 - Shirassuda Thongpahkdhi**
 * **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io)** ([Hello World](https://github.com/thanchanok28/Thanchanok28.github.io/blob/master/HelloWorld.html))
+* **Certificate - Angkarn Pummarin
 
 ---
 
 **[Maykin W.](https://maeklong.github.io/)**
-* *Siraphum P.*, *Pemika L.* *&* *Angkarn P.*
+* *Siraphum P.* *&* *Pemika L.*
 
 ---
 
