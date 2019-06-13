@@ -42,7 +42,7 @@
 [**Day 2**] - (Sat) **Jun 15,** 2019
 *  Requirements
 *  Security controls in your everyday life
-*  http://www.brianapps.net/sizer4
+*  [Sizer 4.0](http://www.brianapps.net/sizer4) is latest version of the popular utility used to accurately resize and reposition windows.
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
 
