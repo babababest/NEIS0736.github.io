@@ -38,7 +38,7 @@
 *  Laptop with internet access
 *  Your favorite IDE/text editor
 *  Active email account (gmail is preferable)
-*  **Scribe of the day**
+*  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-1)**
 
 [**Day 2**] - (Sat) **Jun 15,** 2019
 *  Requirements
