@@ -18,7 +18,7 @@
 * **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)** ([Hello World](https://github.com/6117810004/6117810004.github.io/blob/master/HelloWorld.py)), (Vulnerability)
 * **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)** ([Hello World](https://github.com/mutchimo/NEIS0736.github.io/blob/master/HelloWorld.py)), (Reliability)
 * **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)** ([Hello World](https://github.com/MixMawaew/MixMawaew.github.io/blob/master/TestHello.py)), (Usability)
-* **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)** [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html), (Compatability)
+* **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)** [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html), ([Compatability](https://gitlab.com/NEIS0736/2019/wikis/Compatibility))
 * **6117810011 - [Wissanu Sameejaeng](https://lifestreamone.github.io/)** ([Hello world](https://github.com/lifestreamone/lifestreamone.github.io/blob/master/heloworld.py)), ([Fidelity](https://gitlab.com/NEIS0736/2019/wikis/Fidelity))
 * **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)** ([Hello World](https://github.com/pattamatax/pattamatax.github.io/blob/master/helloworld.c)), ([Recoverability](https://gitlab.com/NEIS0736/2019/wikis/recoverability-Day2))
 * **6117810012 - [Yuttapon Kunkot](https://ghost0000heavy.github.io/)** ([Hello World](https://github.com/ghost0000heavy/ghost0000heavy.github.io/blob/master/HelloWorld.php)), (Safety)
