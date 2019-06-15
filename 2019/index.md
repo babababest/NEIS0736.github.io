@@ -7,7 +7,7 @@
 
 ---
 
-* **5817810004 - [Peranol Akkarasarateera](https://peranol.github.io/)** ([Hello World](https://github.com/peranol/peranol.github.io/blob/master/hello%20world.php)), (responsiveness)
+* **5817810004 - [Peranol Akkarasarateera](https://peranol.github.io/)** ([Hello World](https://github.com/peranol/peranol.github.io/blob/master/hello%20world.php)), (Responsiveness)
 * **6017810010 - [Pongpat Rakdej](https://pp717.github.io/)** ([Hello World](https://github.com/pp717/pp717.github.io/blob/master/helloworld.c)), (Maintainability)
 * **6117660004 - [Chitsanuphong Thaninthorn](https://chitsanuphongt.github.io/)** ([Hello World](https://github.com/chitsanuphongt/chitsanuphongt.github.io/blob/master/HelloWorld.py)), (Learnability)
 * **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**  ([Hello World](https://github.com/babababest/babababest.github.io/blob/master/Hello%20World.py)), (Availbility)
@@ -27,7 +27,7 @@
 * **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io)** ([Hello World](https://github.com/thanchanok28/Thanchanok28.github.io/blob/master/HelloWorld.html))
 * **Certificate - Angkarn Pummarin** (Hello World), (Integrity)
 * **Certificate - Ardnarong Boonkerd** (Hello World), (Testability)
-* **Certificate - Boonma Sirinitsriwong** (Hello World), (standards compliance)
+* **Certificate - Boonma Sirinitsriwong** (Hello World), (Standards Compliance)
 
 ---
 
