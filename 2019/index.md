@@ -16,7 +16,7 @@
 * **6117810001 - [Raksapon Leelachat](https://raksapon.github.io/)** ([Hello World](https://github.com/Raksapon/raksapon.github.io/blob/master/Hello%20world.py))
 * **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)** ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py)), ([Modifiability](https://gitlab.com/NEIS0736/2019/wikis/Modifiability))
 * **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)** ([Hello World](https://github.com/6117810004/6117810004.github.io/blob/master/HelloWorld.py)), (Vulnerability)
-* **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)** ([Hello World](https://github.com/mutchimo/NEIS0736.github.io/blob/master/HelloWorld.py)), (Reliability)
+* **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)** ([Hello World](https://github.com/mutchimo/NEIS0736.github.io/blob/master/HelloWorld.py)), ([Reliability](https://gitlab.com/NEIS0736/2019/wikis/Reliability))
 * **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)** ([Hello World](https://github.com/MixMawaew/MixMawaew.github.io/blob/master/TestHello.py)), ([Usability](https://gitlab.com/NEIS0736/2019/wikis/Usability))
 * **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)** [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html), ([Compatability](https://gitlab.com/NEIS0736/2019/wikis/Compatibility))
 * **6117810011 - [Wissanu Sameejaeng](https://lifestreamone.github.io/)** ([Hello world](https://github.com/lifestreamone/lifestreamone.github.io/blob/master/heloworld.py)), ([Fidelity](https://gitlab.com/NEIS0736/2019/wikis/Fidelity))
