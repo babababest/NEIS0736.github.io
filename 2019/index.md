@@ -14,7 +14,7 @@
 * **6117690002 - [Pornwilai Pitakwong](https://github.com/pornwilai/pornwilai-pornwilai.github.io/blob/master/README.md)**([Hello World](https://github.com/pornwilai/pornwilai-pornwilai.github.io/blob/master/helloworld.html))
 * **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)** ([Hello World](https://github.com/dunlawan/dunlawan.github.io/blob/master/HelloWorld.html))
 * **6117810001 - [Raksapon Leelachat](https://raksapon.github.io/)** ([Hello World](https://github.com/Raksapon/raksapon.github.io/blob/master/Hello%20world.py))
-* **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)** ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py))
+* **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)** ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py)), (Modifiability)
 * **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)** ([Hello World](https://github.com/6117810004/6117810004.github.io/blob/master/HelloWorld.py)), (Vulnerability)
 * **6117810005 - [Mutchima Chuensart](https://mutchimo.github.io/)** ([Hello World](https://github.com/mutchimo/NEIS0736.github.io/blob/master/HelloWorld.py)), (Reliability)
 * **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)** ([Hello World](https://github.com/MixMawaew/MixMawaew.github.io/blob/master/TestHello.py)), (Usability)
