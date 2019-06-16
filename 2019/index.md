@@ -7,23 +7,24 @@
 ---
 
 **MiSSxTalks [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
-*  **(Jun 29)** 
+*  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - **High Performance Computing**
 	* **Pattama Thongprapai** (6117810014)
-*  **(Jul 13)** 
+*  (Jul 13) 
 	* **Angkarn Pummarin** (Certificate) - **Why use threat modeling & how to use it.**
-*  **(Aug 24)** 
+*  (Aug 24) 
 	* **Tanapad Onsri** (6117810004)
-*  **(Aug 31)** 
+*  (Aug 31) 
 	* **Sirimongkol Wongfu** (6117810003)
 	* **Mutchima Chuensart** (6117810005)
-*  **(Sep 7)** 
+*  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003)
-*  **(Sep 14)**	
+*  (Sep 14)	
 	* **Wissanu Sameejaeng** (6117810011)
 
 ---
+
 **Members**
 
 1. **5817810004 - [Peranol Akkarasarateera](https://peranol.github.io/) -** ([Hello World](https://github.com/peranol/peranol.github.io/blob/master/hello%20world.php)), ([Responsiveness](https://gitlab.com/NEIS0736/2019/wikis/Responsiveness))
