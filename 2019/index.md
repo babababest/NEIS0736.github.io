@@ -47,7 +47,7 @@
 1. **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io) -** ([Hello World](https://github.com/thanchanok28/Thanchanok28.github.io/blob/master/HelloWorld.html))
 1. **Certificate - [Angkarn Pummarin](https://c61213on.github.io/) -** ([Hello World](https://github.com/c61213oN/c61213on.github.io/blob/master/Hello_World.php)), ([Integrity](https://gitlab.com/NEIS0736/2019/wikis/Integrity))
 1. **Certificate - [Ardnarong Boonkerd](https://ardnarong.github.io/) -** ([Hello World](https://github.com/ardnarong/ardnarong.github.io/blob/master/helloworld.html)), ([Testability](https://gitlab.com/NEIS0736/2019/wikis/Testability))
-1. **Certificate - Boonma Sirinitsriwong -** (Hello World), (Standards Compliance)
+1. **Certificate - Boonma Sirinitsriwong\* -** (\*Hello World), ([Standards Compliance](https://gitlab.com/NEIS0736/2019/wikis/standards-compliance))
 
 ---
 
