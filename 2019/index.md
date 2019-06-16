@@ -24,6 +24,7 @@
 	* Wissanu Sameejaeng (6117810011)
 
 ---
+**Members**
 
 1. **5817810004 - [Peranol Akkarasarateera](https://peranol.github.io/) -** ([Hello World](https://github.com/peranol/peranol.github.io/blob/master/hello%20world.php)), ([Responsiveness](https://gitlab.com/NEIS0736/2019/wikis/Responsiveness))
 1. **6017810010 - [Pongpat Rakdej](https://pp717.github.io/) -** ([Hello World](https://github.com/pp717/pp717.github.io/blob/master/helloworld.c)), ([Maintainability](https://gitlab.com/NEIS0736/2019/wikis/Maintainability))
@@ -49,6 +50,7 @@
 
 ---
 
+[Instructor & TAs]
 **[Maykin W.](https://fb.me/maeklong)**
 * *[Siraphum P.](https://fb.me/SiraphumPechto)* *&* *[Pemika L.](https://fb.me/tourlek.fisho)*
 
