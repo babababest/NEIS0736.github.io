@@ -50,7 +50,7 @@
 
 ---
 
-**[Instructor & *TAs*]**
+**[Instructor &** *TAs***]**
 * **[Maykin W.](https://fb.me/maeklong)**
 * *[Siraphum P.](https://fb.me/SiraphumPechto)* *&* *[Pemika L.](https://fb.me/tourlek.fisho)*
 
