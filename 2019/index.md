@@ -3,12 +3,12 @@
 ---
 
 * [GitLab Wiki](https://gitlab.com/NEIS0736/2019/wikis/README)
-* **MiSSx*Talks***
+* **MiSS**x***Talks***
 	* Tentative Date : Jul 20
 
 ---
 
-**MiSSx*Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
+**MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - **High Performance Computing**
 	* **Pattama Thongprapai** (6117810014)
