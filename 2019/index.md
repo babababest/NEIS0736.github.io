@@ -3,16 +3,25 @@
 ---
 
 * [GitLab Wiki](https://gitlab.com/NEIS0736/2019/wikis/README)
-* MiSSxTalks [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]
-	*  **(Jun 29)** Pongpat	Rakdej (6017810010) - **High Performance Computing**
-	*  **(Jun 29)** Pattama	Thongprapai (6117810014)
-	*  **(Jul 13)** Angkarn Pummarin (Certificate) - **Why use threat modeling & how to use it.**
-	*  **(Aug 24)** Tanapad	Onsri (6117810004)
-	*  **(Aug 31)** Sirimongkol	Wongfu (6117810003)
-	*  **(Aug 31)** Mutchima Chuensart (6117810005)
-	*  **(Sep 7)** Raksapon	Leelachat (6117810001)
-	*  **(Sep 7)** Suparath	Suwannakorth (6117670003)
-	*  **(Sep 14)**	Wissanu	Sameejaeng (6117810011)
+
+---
+
+**MiSSxTalks [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
+*  **(Jun 29)** 
+	* Pongpat Rakdej (6017810010) - **High Performance Computing**
+	* Pattama Thongprapai (6117810014)
+*  **(Jul 13)** 
+	* Angkarn Pummarin (Certificate) - **Why use threat modeling & how to use it.**
+*  **(Aug 24)** 
+	* Tanapad Onsri (6117810004)
+*  **(Aug 31)** 
+	* Sirimongkol Wongfu (6117810003)
+	* Mutchima Chuensart (6117810005)
+*  **(Sep 7)** 
+	* Raksapon Leelachat (6117810001)
+	* Suparath	Suwannakorth (6117670003)
+*  **(Sep 14)**	
+	* Wissanu Sameejaeng (6117810011)
 
 ---
 
