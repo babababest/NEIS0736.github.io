@@ -30,7 +30,7 @@
 1. **5817810004 - [Peranol Akkarasarateera](https://peranol.github.io/) -** ([Hello World](https://github.com/peranol/peranol.github.io/blob/master/hello%20world.php)), ([Responsiveness](https://gitlab.com/NEIS0736/2019/wikis/Responsiveness))
 1. **6017810010 - [Pongpat Rakdej](https://pp717.github.io/) -** ([Hello World](https://github.com/pp717/pp717.github.io/blob/master/helloworld.c)), ([Maintainability](https://gitlab.com/NEIS0736/2019/wikis/Maintainability))
 1. **6117660004 - [Chitsanuphong Thaninthorn](https://chitsanuphongt.github.io/) -** ([Hello World](https://github.com/chitsanuphongt/chitsanuphongt.github.io/blob/master/HelloWorld.py)), ([Learnability](https://gitlab.com/NEIS0736/2019/wikis/Learnability))
-1. **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/) -** ([Hello World](https://github.com/babababest/babababest.github.io/blob/master/Hello%20World.py)), (Availbility)
+1. **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/) -** ([Hello World](https://github.com/babababest/babababest.github.io/blob/master/Hello%20World.py)), ([Availbility](https://gitlab.com/NEIS0736/2019/wikis/Availability))
 1. **6117690002 - [Pornwilai Pitakwong](https://pornwilai.github.io/) -** ([Hello World](https://github.com/pornwilai/pornwilai-pornwilai.github.io/blob/master/helloworld.html))
 1. **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/) -** ([Hello World](https://github.com/dunlawan/dunlawan.github.io/blob/master/HelloWorld.html))
 1. **6117810001 - [Raksapon Leelachat](https://raksapon.github.io/) -** ([Hello World](https://github.com/Raksapon/raksapon.github.io/blob/master/Hello%20world.py))
