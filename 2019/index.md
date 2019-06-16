@@ -4,7 +4,11 @@
 
 * [GitLab Wiki](https://gitlab.com/NEIS0736/2019/wikis/README)
 * MiSSxTalks [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]
-	*  **(July 13)** Angkarn Pummarin (Certificate) - **Why use threat modeling & how to use it.**
+	*  **(Jul 13)** Angkarn Pummarin (Certificate) - **Why use threat modeling & how to use it.**
+	*  **(Aug 31)** Mutchima Chuensart (6117810005)
+	*  **(Sep 7)** Raksapon	Leelachat (6117810001)
+	*  **(Sep 7)** Suparath	Suwannakorth (6117670003)
+	*  **(Sep 14)**	Wissanu	Sameejaeng (6117810011)
 
 ---
 
