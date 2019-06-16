@@ -56,6 +56,7 @@
 *  Quality Attributes
 *  Security controls in your everyday life
 *  [Sizer 4.0](http://www.brianapps.net/sizer4) is latest version of the popular utility used to accurately resize and reposition windows.
+*  **Scribe of the day**
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
 
