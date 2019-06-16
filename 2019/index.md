@@ -43,7 +43,7 @@
 1. **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io) -** ([Hello World](https://github.com/pattamatax/pattamatax.github.io/blob/master/helloworld.c)), ([Recoverability](https://gitlab.com/NEIS0736/2019/wikis/recoverability-Day2))
 1. **6117810012 - [Yuttapon Kunkot](https://ghost0000heavy.github.io/) -** ([Hello World](https://github.com/ghost0000heavy/ghost0000heavy.github.io/blob/master/HelloWorld.php)), ([Safety](https://gitlab.com/NEIS0736/2019/wikis/Safety))
 1. **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/) -** ([Hello World](https://github.com/TwinZabX2/TwinZabX2.github.io/blob/master/HelloWorldByToss.py)), ([Portability](https://gitlab.com/NEIS0736/2019/wikis/Portability))
-1. **6117810017 - Shirassuda Thongpahkdhi -** (Hello World), (failure transparency)
+1. **6117810017 - Shirassuda Thongpahkdhi -** \*(Hello World), \*(failure transparency)
 1. **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io) -** ([Hello World](https://github.com/thanchanok28/Thanchanok28.github.io/blob/master/HelloWorld.html))
 1. **Certificate - [Angkarn Pummarin](https://c61213on.github.io/) -** ([Hello World](https://github.com/c61213oN/c61213on.github.io/blob/master/Hello_World.php)), ([Integrity](https://gitlab.com/NEIS0736/2019/wikis/Integrity))
 1. **Certificate - Ardnarong Boonkerd -** (Hello World), (Testability)
