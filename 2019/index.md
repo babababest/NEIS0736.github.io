@@ -4,7 +4,7 @@
 
 * [GitLab Wiki](https://gitlab.com/NEIS0736/2019/wikis/README)
 * MiSSxTalks [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]
-	*  **(July 13)** ***Angkarn Pummarin (Certificate)*** - **Why use threat modeling & how to use it.**
+	*  **(July 13)** Angkarn Pummarin (Certificate) - **Why use threat modeling & how to use it.**
 
 ---
 
