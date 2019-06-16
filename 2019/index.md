@@ -70,7 +70,7 @@
 *  **Scribe of the day**
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
-*  Security controls in your everyday life
+*  Authentication mechanism in your everyday life
 *  **Scribe of the day**
 
 [**Day 4**] - (Sat) **Jun 29,** 2019
