@@ -72,7 +72,7 @@
 1. **6117810016 - [Tossaporn Hansing](https://twinzabx2.github.io/)**
 	* ([Hello World](https://github.com/TwinZabX2/TwinZabX2.github.io/blob/master/HelloWorldByToss.py))
 	* ([Portability](https://gitlab.com/NEIS0736/2019/wikis/Portability))
-1. **6117810017 - Shirassuda Thongpahkdhi**
+1. **6117810017 - Shirassuda Thongpahkdhi\***
 	* \*(Hello World)
 	* \*(failure transparency)
 1. **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io)**
