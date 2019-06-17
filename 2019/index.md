@@ -14,6 +14,8 @@
 	* **Pattama Thongprapai** (6117810014)
 *  (Jul 13) 
 	* **Angkarn Pummarin** (Certificate) - **Why use threat modeling & how to use it.**
+*  (Aug 17)
+	* **Chitsanuphong Thaninthorn** (6117660004)
 *  (Aug 24) 
 	* **Tanapad Onsri** (6117810004)
 *  (Aug 31) 
