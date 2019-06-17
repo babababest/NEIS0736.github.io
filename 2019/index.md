@@ -109,7 +109,7 @@
 *  Requirements
 *  Quality Attributes [on [Wikipedia](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)]
 *  [Sizer 4.0](http://www.brianapps.net/sizer4) is latest version of the popular utility used to accurately resize and reposition windows.
-*  **Scribe of the day**
+*  **Scribe of the day** *by **Suparath S***
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
 *  Authentication mechanism in your everyday life
