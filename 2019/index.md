@@ -24,7 +24,7 @@
 	* **Mutchima Chuensart** (6117810005)
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
-	* **Suparath Suwannakorth** (6117670003)
+	* **Suparath Suwannakorth** (6117670003) - **Digital Certificates for Electronic Transactions**
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - **Open Web Application Security Project (OWASP)**
 	* **Wissanu Sameejaeng** (6117810011)
