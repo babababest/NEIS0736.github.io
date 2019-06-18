@@ -11,7 +11,7 @@
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - **High Performance Computing**
-	* **Pattama Thongprapai** (6117810014)
+	* **Pattama Thongprapai** (6117810014) - **Why code reviews matter (and actually save time!)**
 *  (Jul 13) 
 	* **Angkarn Pummarin** (Certificate) - **Why use threat modeling & how to use it.**
 *  (Aug 17)
