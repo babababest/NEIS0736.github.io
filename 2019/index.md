@@ -10,10 +10,10 @@
 
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 *  (Jun 29)
-	* **Pongpat Rakdej** (6017810010) - **High Performance Computing**
-	* **Pattama Thongprapai** (6117810014) - **Why code reviews matter (and actually save time!)**
+	* **Pongpat Rakdej** (6017810010) - ***High Performance Computing***
+	* **Pattama Thongprapai** (6117810014) - ***Why code reviews matter (and actually save time!)***
 *  (Jul 13) 
-	* **Angkarn Pummarin** (Certificate) - **Why use threat modeling & how to use it.**
+	* **Angkarn Pummarin** (Certificate) - ***Why use threat modeling & how to use it.***
 *  (Aug 17)
 	* **Chitsanuphong Thaninthorn** (6117660004)
 *  (Aug 24)
@@ -24,9 +24,9 @@
 	* **Mutchima Chuensart** (6117810005)
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
-	* **Suparath Suwannakorth** (6117670003) - **Digital Certificates for Electronic Transactions**
+	* **Suparath Suwannakorth** (6117670003) - ***Digital Certificates for Electronic Transactions***
 *  (Sep 14)
-    * **Yuttapon Kunkot** (6117810012) - **Open Web Application Security Project (OWASP)**
+    * **Yuttapon Kunkot** (6117810012) - ***Open Web Application Security Project (OWASP)***
 	* **Wissanu Sameejaeng** (6117810011)
 
 ---
