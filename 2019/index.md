@@ -26,7 +26,7 @@
 	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
 *  (Sep 14)
-    * **Yuttapon Kunkot** (6117810012) - "***Open Web Application Security Project (OWASP)***"
+    * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
 
 ---
