@@ -96,8 +96,8 @@
 ---
 
 **[Instructor &** *TAs***]**
-* **[Maykin W.](https://fb.me/maeklong)**
-* *[Siraphum P.](https://fb.me/SiraphumPechto)* *&* *[Pemika L.](https://fb.me/tourlek.fisho)*
+* **[Maykin Warasart](https://fb.me/maeklong)**
+* *[Siraphum Pechto](https://fb.me/SiraphumPechto)* *&* *[Pemika Limpittaya](https://fb.me/tourlek.fisho)*
 
 ---
 
