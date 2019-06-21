@@ -103,19 +103,20 @@
 
 [**Day 1**] - (Sat) **Jun 8,** 2019
 *  Laptop with internet access
-*  Your favorite IDE/text editor
+*  Your favorite **IDE/text editor**
 *  Active email account (gmail is preferable)
+*  GitHub, GitLab & **GitHub Page**
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-1)** *by **Wissanu S.***
 
 [**Day 2**] - (Sat) **Jun 15,** 2019
-*  Requirements
+*  **Requirements**
 *  Quality Attributes [on [Wikipedia](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)]
 *  [Sizer 4.0](http://www.brianapps.net/sizer4) is latest version of the popular utility used to accurately resize and reposition windows.
 *  **Scribe of the day** *by **Suparath S***
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
-*  Testable Requirements
-*  Authentication mechanism in your everyday life
+*  **Testable Requirements**
+*  **Authentication mechanism** in your everyday life
 *  **Scribe of the day**
 
 [**Day 4**] - (Sat) **Jun 29,** 2019
