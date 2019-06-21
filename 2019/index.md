@@ -114,6 +114,7 @@
 *  **Scribe of the day** *by **Suparath S***
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
+*  Testable Requirements
 *  Authentication mechanism in your everyday life
 *  **Scribe of the day**
 
