@@ -9,6 +9,8 @@
 ---
 
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
+*  (Jun 22)
+	* **Maykin Warasart** (5217810022) - "***Paper-based Document Authentication using Digital Signature and QR Code***"
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
@@ -115,6 +117,7 @@
 *  **Scribe of the day** *by **Suparath S.***
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
+*  **MiSS**x***Talks***
 *  **Testable Requirements**
 *  **Authentication mechanism** in your everyday life
 *  **Scribe of the day**
