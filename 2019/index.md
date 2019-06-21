@@ -99,7 +99,9 @@
 
 **[Instructor &** *TAs***]**
 * **[Maykin Warasart](https://fb.me/maeklong)**
-* *[Siraphum Pechto](https://fb.me/SiraphumPechto)* *&* *[Pemika Limpittaya](https://fb.me/tourlek.fisho)*
+* *[Siraphum Pechto](https://fb.me/SiraphumPechto)* 
+* *[Pemika Limpittaya](https://fb.me/tourlek.fisho)*
+* *[Pongpat Rakdej](https://www.fb.me/pongpatrakdej)*
 
 ---
 
