@@ -135,6 +135,9 @@
 *  **Testable** Requirements
 *  **Authentication mechanism** in your everyday life (**Homework**)
 *  **Scribe of the day** *by **Pattama T.***
+*  Grammar Checker
+   * [Ginger](https://www.gingersoftware.com/grammarcheck)
+   * [Reverso](http://reverso.net/spell-checker/english-spelling-grammar/)
 
 [**Day 4**] - (Sat) **Jun 29,** 2019
 *  **MiSS**x***Talks***
