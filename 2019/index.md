@@ -78,7 +78,7 @@
 1. **6117810011 - [Wissanu Sameejaeng](https://lifestreamone.github.io/)**
 	* ([Hello world](https://github.com/lifestreamone/lifestreamone.github.io/blob/master/heloworld.py))
 	* ([Operability](https://gitlab.com/NEIS0736/2019/wikis/Operability))
-	* ([TC01](https://lifestreamone.github.io/))
+	* ([TC01](https://lifestreamone.github.io/TC01))
 1. **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
 	* ([Hello World](https://github.com/pattamatax/pattamatax.github.io/blob/master/helloworld.c))
 	* ([Recoverability](https://gitlab.com/NEIS0736/2019/wikis/recoverability-Day2))
