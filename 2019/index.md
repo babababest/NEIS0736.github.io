@@ -133,9 +133,9 @@
 
 [**Day 3**] - (Sat) **Jun 22,** 2019
 *  **MiSS**x***Talks***
-*  **Testable Requirements**
-*  **Authentication mechanism** in your everyday life
-*  **Scribe of the day**
+*  **Testable** Requirements
+*  **Authentication mechanism** in your everyday life (**Homework**)
+*  **Scribe of the day** *by **Pattama T.***
 
 [**Day 4**] - (Sat) **Jun 29,** 2019
 *  **MiSS**x***Talks***
@@ -173,5 +173,6 @@
 [**Day 15**] - (Sat) **Sep 28,** 2019
 
 
-Hypervisor
-Test Case
+**Keyword for semi-final examination**
+* Hypervisor
+* Test Case
