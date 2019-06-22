@@ -3,8 +3,7 @@
 ---
 
 * [GitLab **Wiki** Page](https://gitlab.com/NEIS0736/2019/wikis/README)
-* **MiSS**x***Talks*** Special
-	* Tentative Date : Jul 20
+* **MiSS**x***Talks*** Special : **July 20, 2019**
 
 ---
 
