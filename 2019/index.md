@@ -8,8 +8,7 @@
 ---
 
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
-*  (Jun 22)
-	* **Maykin Warasart** (5217810022) - "***Paper-based Document Authentication using Digital Signature and QR Code***"
+
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
@@ -29,6 +28,9 @@
 *  (Sep 14)
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
+
+***Passed***
+*  (Jun 22) Maykin Warasart (5217810022) - "Paper-based Document Authentication using Digital Signature and QR Code"
 
 ---
 
