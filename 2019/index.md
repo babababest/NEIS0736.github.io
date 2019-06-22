@@ -136,6 +136,7 @@
 [**Day 3**] - (Sat) **Jun 22,** 2019
 *  **MiSS**x***Talks***
 *  **Testable** Requirements
+*  Effective **Test Case** Writing ([ISTQB Glossary](https://glossary.istqb.org/en/search/test%20case))
 *  **Authentication mechanism** in your everyday life (**Homework**)
 *  **Scribe of the day** *by **Pattama T.***
 *  Grammar Checker
