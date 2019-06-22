@@ -57,7 +57,7 @@
 	* ([Hello World](https://github.com/dunlawan/dunlawan.github.io/blob/master/HelloWorld.html))
 1. **6117810001 - [Raksapon Leelachat](https://raksapon.github.io/)**
 	* ([Hello World](https://github.com/Raksapon/raksapon.github.io/blob/master/Hello%20world.py))
-	  ([TC01](https://raksapon.github.io/TC01))
+	* ([TC01](https://raksapon.github.io/TC01))
 1. **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)**
 	* ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py))
 	* ([Modifiability](https://gitlab.com/NEIS0736/2019/wikis/Modifiability))
