@@ -173,6 +173,8 @@
 [**Day 15**] - (Sat) **Sep 28,** 2019
 
 
-**Keyword for semi-final examination**
+
+
+***Keyword for semi-final examination***
 * Hypervisor
 * Test Case
