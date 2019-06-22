@@ -44,6 +44,7 @@
 1. **6117660004 - [Chitsanuphong Thaninthorn](https://chitsanuphongt.github.io/)** 
 	* ([Hello World](https://github.com/chitsanuphongt/chitsanuphongt.github.io/blob/master/HelloWorld.py))
 	* ([Learnability](https://gitlab.com/NEIS0736/2019/wikis/Learnability))
+	* ([TC01](https://chitsanuphongt.github.io/TC01))
 1. **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**
 	* ([Hello World](https://github.com/babababest/babababest.github.io/blob/master/Hello%20World.py))
 	* ([Availbility](https://gitlab.com/NEIS0736/2019/wikis/Availability))
