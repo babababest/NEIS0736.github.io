@@ -42,7 +42,7 @@
 	([TC01](https://peranol.github.io/TC01))
 1. **6017810010 - [Pongpat Rakdej](https://pp717.github.io/)** 
 	* ([Hello World](https://github.com/pp717/pp717.github.io/blob/master/helloworld.c))
-	([Maintainability](https://gitlab.com/NEIS0736/2019/wikis/Maintainability))
+	* ([Maintainability](https://gitlab.com/NEIS0736/2019/wikis/Maintainability))
 1. **6117660004 - [Chitsanuphong Thaninthorn](https://chitsanuphongt.github.io/)** 
 	* ([Hello World](https://github.com/chitsanuphongt/chitsanuphongt.github.io/blob/master/HelloWorld.py))
 	* ([Learnability](https://gitlab.com/NEIS0736/2019/wikis/Learnability))
