@@ -74,9 +74,11 @@
 1. **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)**
 	* [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html)
 	* ([Compatability](https://gitlab.com/NEIS0736/2019/wikis/Compatibility))
+	* ([TC01](https://numl3er47.github.io/TC01))
 1. **6117810011 - [Wissanu Sameejaeng](https://lifestreamone.github.io/)**
 	* ([Hello world](https://github.com/lifestreamone/lifestreamone.github.io/blob/master/heloworld.py))
 	* ([Operability](https://gitlab.com/NEIS0736/2019/wikis/Operability))
+	* ([TC01](https://lifestreamone.github.io/))
 1. **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
 	* ([Hello World](https://github.com/pattamatax/pattamatax.github.io/blob/master/helloworld.c))
 	* ([Recoverability](https://gitlab.com/NEIS0736/2019/wikis/recoverability-Day2))
