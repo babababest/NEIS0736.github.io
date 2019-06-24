@@ -145,7 +145,8 @@
 
 [**Day 4**] - (Sat) **Jun 29,** 2019
 *  **MiSS**x***Talks***
-*  **Authentication** (Cont'd)
+*  **Precondition** ([ISTQB Glossary](https://glossary.istqb.org/en/search/precondition))
+*  **Authentication** *(Cont'd)*
 *  **System Integration** Testing ([ISTQB Glossary](https://glossary.istqb.org/en/search/system%20integration%20testing))
 
 [**Day 5**] - (Sat) **Jul 13,** 2019
