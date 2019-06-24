@@ -29,9 +29,6 @@
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
 
-***Passed***
-*  (Jun 22) Maykin Warasart (5217810022) - "Paper-based Document Authentication using Digital Signature and QR Code"
-
 ---
 
 **Members**
