@@ -145,6 +145,7 @@
 
 [**Day 4**] - (Sat) **Jun 29,** 2019
 *  **MiSS**x***Talks***
+*  **System Integration** Testing ([ISTQB Glossary](https://glossary.istqb.org/en/search/system%20integration%20testing))
 
 [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
