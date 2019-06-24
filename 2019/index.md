@@ -1,4 +1,4 @@
-## **[NEIS0736 - Software Security](../) (2019)**!
+## **[Software Security - NEIS0736](../) (2019)**!
 
 ---
 
