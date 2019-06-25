@@ -121,7 +121,7 @@
 
 ---
 
-[**Day 1**] - (Sat) **Jun 8,** 2019
+### [**Day 1**] - (Sat) **Jun 8,** 2019
 *  Laptop with internet access
 *  Your favorite **IDE/text editor**
 *  Active email account (gmail is preferable)
