@@ -185,5 +185,6 @@
 ---
 
 ## ***Keywords for semi-final examination***
-* Test Case
+* Test Case Writing
+* Criticize Test Case
 * Hypervisor *(plus)*
