@@ -94,8 +94,8 @@
 	* ([Portability](https://gitlab.com/NEIS0736/2019/wikis/Portability))
 	  ([TC01](https://twinzabx2.github.io/TC01))
 1. **6117810017 - Shirassuda Thongpahkdhi\***
-	* \*(Hello World)
-	* \*(failure transparency)
+	* (Hello World\*)
+	* (failure transparency\*)
 1. **Certificate - [Thanchanok Laopromsukon](https://thanchanok28.github.io)**
 	* ([Hello World](https://github.com/thanchanok28/Thanchanok28.github.io/blob/master/HelloWorld.html))
 1. **Certificate - [Angkarn Pummarin](https://c61213on.github.io/)**
@@ -108,7 +108,7 @@
 	* ([Testability](https://gitlab.com/NEIS0736/2019/wikis/Testability))
 	  ([TC01](https://ardnarong.github.io/TC01))
 1. **Certificate - Boonma Sirinitsriwong\***
-	* (\*Hello World)
+	* (Hello World\*)
 	* ([Standards Compliance](https://gitlab.com/NEIS0736/2019/wikis/standards-compliance))
 
 ---
