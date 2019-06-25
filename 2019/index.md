@@ -189,5 +189,5 @@
 ## ***Keywords for semi-final examination***
 * Test Case Writing
 * Criticize Test Case
-* Fuzz Testing
+* Fuzz Testing *(plus)*
 * Hypervisor *(plus)*
