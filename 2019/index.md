@@ -148,6 +148,7 @@
 *  **Precondition** ([ISTQB Glossary](https://glossary.istqb.org/en/search/precondition))
 *  **Authentication** *(Cont'd)*
 *  **System Integration** Testing ([ISTQB Glossary](https://glossary.istqb.org/en/search/system%20integration%20testing))
+*  The **Application Security Verification Standard ([ASVS]())**
 
 [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
