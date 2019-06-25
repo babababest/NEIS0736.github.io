@@ -128,13 +128,13 @@
 *  GitHub, GitLab & **GitHub Page**
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-1)** *by **Wissanu S.***
 
-[**Day 2**] - (Sat) **Jun 15,** 2019
+### [**Day 2**] - (Sat) **Jun 15,** 2019
 *  **Requirements**
 *  **Quality Attributes** [on [Wikipedia](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)]
 *  [Sizer 4.0](http://www.brianapps.net/sizer4) is latest version of the popular utility used to accurately resize and reposition windows.
 *  **Scribe of the day** *by **Suparath S.***
 
-[**Day 3**] - (Sat) **Jun 22,** 2019
+### [**Day 3**] - (Sat) **Jun 22,** 2019
 *  **MiSS**x***Talks***
 *  **Testable** Requirements
 *  Effective **Test Case** Writing ([ISTQB Glossary](https://glossary.istqb.org/en/search/test%20case))
@@ -144,7 +144,7 @@
    * [Ginger](https://www.gingersoftware.com/grammarcheck)
    * [Reverso](http://reverso.net/spell-checker/english-spelling-grammar/)
 
-[**Day 4**] - (Sat) **Jun 29,** 2019
+### [**Day 4**] - (Sat) **Jun 29,** 2019
 *  **MiSS**x***Talks***
 *  **Precondition** ([ISTQB Glossary](https://glossary.istqb.org/en/search/precondition))
 *  **Authentication** *(Cont'd)*
@@ -152,37 +152,37 @@
 *  **Valid** & **Invalid** Test Cases ([ISTQB Glossary](https://glossary.istqb.org/en/search/invalid))
 *  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
 
-[**Day 5**] - (Sat) **Jul 13,** 2019
+#### [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
 
-[**Day 6**] - (***Sun***) **Jul 14,** 2019 (***15:30 - 18:30***)
+#### [**Day 6**] - (***Sun***) **Jul 14,** 2019 (***15:30 - 18:30***)
 
-[**Day 7**] - (Sat) **Jul 20,** 2019
+#### [**Day 7**] - (Sat) **Jul 20,** 2019
 *  **MiSS**x***Talks*** Special
 
-[**Semi-final Exam**] - (Sat) **Aug 3,** 2019 (*Lec + Lab*)
+#### [**Semi-final Exam**] - (Sat) **Aug 3,** 2019 (*Lec + Lab*)
 
-[**Day 8**] - (Sat) **Aug 10,** 2019
+#### [**Day 8**] - (Sat) **Aug 10,** 2019
 
-[**Day 9**] - (Sat) **Aug 17,** 2019
+#### [**Day 9**] - (Sat) **Aug 17,** 2019
 *  **MiSS**x***Talks***
 
-[**Day 10**] - (Sat) **Aug 24,** 2019
+#### [**Day 10**] - (Sat) **Aug 24,** 2019
 *  **MiSS**x***Talks***
 
-[**Day 11**] - (Sat) **Aug 31,** 2019
+#### [**Day 11**] - (Sat) **Aug 31,** 2019
 *  **MiSS**x***Talks***
 
-[**Day 12**] - (Sat) **Sep 7,** 2019
+#### [**Day 12**] - (Sat) **Sep 7,** 2019
 *  **MiSS**x***Talks***
 
-[**Day 13**] - (Sat) **Sep 14,** 2019
+#### [**Day 13**] - (Sat) **Sep 14,** 2019
 *  **MiSS**x***Talks***
 
-[**Day 14**] - (Sat) **Sep 21,** 2019
+#### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
 
-[**Day 15**] - (Sat) **Sep 28,** 2019
+#### [**Day 15**] - (Sat) **Sep 28,** 2019
 
 ---
 
