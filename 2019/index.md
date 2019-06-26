@@ -175,6 +175,7 @@
 ---
 
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
+*  **#HereWeFix** *Contest*
 
 #### [**Day 9**] - (Sat) **Aug 17,** 2019
 *  **MiSS**x***Talks***
@@ -196,5 +197,5 @@
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
 
-#### [**Final Examination**] - (*Lec + Lab*)
+#### [**Final Examination**] - *(Lec + Lab)*
 
