@@ -175,7 +175,7 @@
 ---
 
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
-
+*  **Code Review**
 
 #### [**Day 9**] - (Sat) **Aug 17,** 2019
 *  **MiSS**x***Talks***
