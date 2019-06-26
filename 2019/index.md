@@ -166,7 +166,7 @@
 
 #### [**Semi-final Examination**]
 
-*  ***Keywords for semi-final examination***
+*  ***Keywords***
 	* Test Case Writing
 	* Criticize Test Case
 	* Fuzz Testing *(plus)*
