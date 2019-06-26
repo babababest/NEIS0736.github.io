@@ -179,7 +179,7 @@
 
 #### [**Day 9**] - (Sat) **Aug 17,** 2019
 *  **MiSS**x***Talks***
-*  **#HereWeFix** *Contest*
+*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
 
 #### [**Day 10**] - (Sat) **Aug 24,** 2019
 *  **MiSS**x***Talks***
