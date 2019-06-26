@@ -58,6 +58,7 @@
 1. **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)**
 	* ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py))
 	* ([Modifiability](https://gitlab.com/NEIS0736/2019/wikis/Modifiability))
+	([TC01](https://G3MINii.github.io/TC01))
 1. **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)**
 	* ([Hello World](https://github.com/6117810004/6117810004.github.io/blob/master/HelloWorld.py))
 	* ([Interoperability](https://gitlab.com/NEIS0736/2019/wikis/Interoperability))
@@ -161,7 +162,7 @@
 #### [**Day 7**] - (Sat) **Jul 20,** 2019
 *  **MiSS**x***Talks*** Special
 
-#### [**Semi-final Exam**] - (Sat) **Aug 3,** 2019 (*Lec + Lab*)
+#### [**Semi-final Exam**]
 
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
 
@@ -184,6 +185,8 @@
 *  **MiSS**x***Talks***
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
+
+#### [**Final Examination**] - (*Lec + Lab*)
 
 ---
 
