@@ -175,10 +175,11 @@
 ---
 
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
-*  **#HereWeFix** *Contest*
+
 
 #### [**Day 9**] - (Sat) **Aug 17,** 2019
 *  **MiSS**x***Talks***
+*  **#HereWeFix** *Contest*
 
 #### [**Day 10**] - (Sat) **Aug 24,** 2019
 *  **MiSS**x***Talks***
