@@ -177,9 +177,10 @@
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
 *  **Code Review**
 
+<a name="HereWeFix"></a>
 #### [**Day 9**] - (Sat) **Aug 17,** 2019
 *  **MiSS**x***Talks***
-*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest* <a name="HereWeFix"></a>
+*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
 
 #### [**Day 10**] - (Sat) **Aug 24,** 2019
 *  **MiSS**x***Talks***
