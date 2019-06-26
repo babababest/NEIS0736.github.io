@@ -158,6 +158,7 @@
 *  **MiSS**x***Talks***
 
 #### [**Day 6**] - (***Sun***) **Jul 14,** 2019 (***15:30 - 18:30***)
+*  **Integrated Environment** for **Self Learning** by Students
 
 #### [**Day 7**] - (Sat) **Jul 20,** 2019
 *  **MiSS**x***Talks*** Special
