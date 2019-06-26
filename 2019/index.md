@@ -162,7 +162,17 @@
 #### [**Day 7**] - (Sat) **Jul 20,** 2019
 *  **MiSS**x***Talks*** Special
 
+---
+
 #### [**Semi-final Exam**]
+
+*  ***Keywords for semi-final examination***
+	* Test Case Writing
+	* Criticize Test Case
+	* Fuzz Testing *(plus)*
+	* Hypervisor *(plus)*
+
+---
 
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
 
@@ -188,10 +198,3 @@
 
 #### [**Final Examination**] - (*Lec + Lab*)
 
----
-
-## ***Keywords for semi-final examination***
-* Test Case Writing
-* Criticize Test Case
-* Fuzz Testing *(plus)*
-* Hypervisor *(plus)*
