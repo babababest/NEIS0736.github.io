@@ -159,6 +159,7 @@
 
 #### [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
+*  The **12 Factors**
 
 #### [**Day 6**] - (***Sun***) **Jul 14,** 2019 (***15:30 - 18:30***)
 *  **Integrated Environment** for **Self Learning** by Students
