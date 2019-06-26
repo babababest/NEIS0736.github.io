@@ -164,7 +164,7 @@
 
 ---
 
-#### [**Semi-final Exam**]
+#### [**Semi-final Examination**]
 
 *  ***Keywords for semi-final examination***
 	* Test Case Writing
