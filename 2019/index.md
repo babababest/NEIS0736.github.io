@@ -21,7 +21,7 @@
 	* **Chalermwut Likasitwong** (6117810006)
 	* **Chitsanuphong Thaninthorn** (6117660004)
 *  (Aug 24)
-	* **Pongpat	Petchai** (6117810009)
+	* **Pongpat	Petchai** (6117810009) - "***How to Prevent File Upload Vulnerabilities***"
 	* **Tanapad Onsri** (6117810004)
 *  (Aug 31) 
 	* **Sirimongkol Wongfu** (6117810003)
