@@ -14,6 +14,9 @@
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 *  (Jul 13) 
 	* **Angkarn Pummarin** (Certificate) - "***Why use threat modeling & how to use it.***"
+*  (Aug 10)
+	* **Tossaporn Hansing** (6117810016)
+	* **Ardnarong Boonkerd** (Certificate)
 *  (Aug 17)
 	* **Chitsanuphong Thaninthorn** (6117660004)
 *  (Aug 24)
