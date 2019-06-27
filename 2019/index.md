@@ -203,6 +203,7 @@
 *  **MiSS**x***Talks***
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
+*  **Wrap-up**
 
 #### [**Final Examination**] - *(Lec + Lab)*
 
