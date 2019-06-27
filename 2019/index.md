@@ -18,6 +18,7 @@
 	* **Tossaporn Hansing** (6117810016)
 	* **Ardnarong Boonkerd** (Certificate)
 *  (Aug 17)
+	* **Chalermwut Likasitwong** (6117810006)
 	* **Chitsanuphong Thaninthorn** (6117660004)
 *  (Aug 24)
 	* **Pongpat	Petchai** (6117810009)
