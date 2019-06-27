@@ -21,7 +21,7 @@
 	* **Tanapad Onsri** (6117810004)
 *  (Aug 31) 
 	* **Sirimongkol Wongfu** (6117810003)
-	* **Mutchima Chuensart** (6117810005)
+	* **Mutchima Chuensart** (6117810005) - "***Domain-Driven Design: Tackling Complexity in the Heart of Software***""
 *  (Sep 7) 
 	* **Raksapon Leelachat** (6117810001)
 	* **Suparath Suwannakorth** (6117670003) - "***Digital Certificates for Electronic Transactions***"
