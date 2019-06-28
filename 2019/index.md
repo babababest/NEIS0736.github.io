@@ -101,6 +101,7 @@
 	* ([Hello World](https://github.com/TwinZabX2/TwinZabX2.github.io/blob/master/HelloWorldByToss.py))
 	* ([Portability](https://gitlab.com/NEIS0736/2019/wikis/Portability))
 	  ([TC01](https://twinzabx2.github.io/TC01))
+	* ([DUO Security](https://twinzabx2.github.io/DUO_SEC/DUO_Security))
 1. **6117810017 - Shirassuda Thongpahkdhi\***
 	* (Hello World\*)
 	* (failure transparency\*)
