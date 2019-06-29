@@ -65,6 +65,7 @@
 	* ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py))
 	* ([Modifiability](https://gitlab.com/NEIS0736/2019/wikis/Modifiability))
 	([TC01](https://G3MINii.github.io/TC01))
+	* ([Medium](https://g3minii.github.io/Medium))
 1. **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)**
 	* ([Hello World](https://github.com/6117810004/6117810004.github.io/blob/master/HelloWorld.py))
 	* ([Interoperability](https://gitlab.com/NEIS0736/2019/wikis/Interoperability))
