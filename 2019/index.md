@@ -67,8 +67,9 @@
 1. **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)**
 	* ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py))
 	* ([Modifiability](https://gitlab.com/NEIS0736/2019/wikis/Modifiability))
-	([TC01](https://G3MINii.github.io/TC01))
+	  ([TC01](https://G3MINii.github.io/TC01))
 	* ([Medium](https://g3minii.github.io/Medium))
+	  ([TC02](https://G3MINii.github.io/TC02))
 1. **6117810004 - [Tanapad Onsri](https://6117810004.github.io/)**
 	* ([Hello World](https://github.com/6117810004/6117810004.github.io/blob/master/HelloWorld.py))
 	* ([Interoperability](https://gitlab.com/NEIS0736/2019/wikis/Interoperability))
@@ -77,27 +78,32 @@
 	* ([Hello World](https://github.com/mutchimo/mutchimo.github.io/blob/master/Hello.py))
 	* ([Reliability](https://gitlab.com/NEIS0736/2019/wikis/Reliability))
 	  ([TC01](https://mutchimo.github.io/TC01))
-	* ([ClearPass](https://mutchimo.github.io/Clearpass))  
+	* ([ClearPass](https://mutchimo.github.io/Clearpass))
+	  ([TC02](https://mutchimo.github.io/TC02))
 1. **6117810006 - [Chalermwut Likasitwong](https://mixmawaew.github.io/)**
 	* ([Hello World](https://github.com/MixMawaew/MixMawaew.github.io/blob/master/TestHello.py))
 	* ([Usability](https://gitlab.com/NEIS0736/2019/wikis/Usability))
 	  ([TC01](https://mixmawaew.github.io/TC01))
-	* ([Facebook Authentication](https://mixmawaew.github.io/Facebook-Authentication))  
+	* ([Facebook Authentication](https://mixmawaew.github.io/Facebook-Authentication))
+	  ([TC02](https://mixmawaew.github.io/TC02)) 
 1. **6117810009 - [Pongpat Petchai](https://numl3er47.github.io/)**
 	* [(Hello world)](https://github.com/Numl3er47/Numl3er47.github.io/blob/master/hello%20world.html)
 	* ([Compatability](https://gitlab.com/NEIS0736/2019/wikis/Compatibility))
 	  ([TC01](https://numl3er47.github.io/TC01))
 	* ([Google Authentication](https://numl3er47.github.io/Google-Authentication))
+	  ([TC02](https://numl3er47.github.io/TC02))
 1. **6117810011 - [Wissanu Sameejaeng](https://lifestreamone.github.io/)**
 	* ([Hello world](https://github.com/lifestreamone/lifestreamone.github.io/blob/master/heloworld.py))
 	* ([Operability](https://gitlab.com/NEIS0736/2019/wikis/Operability))
 	  ([TC01](https://lifestreamone.github.io/TC01))
 	* ([LINE PC](https://lifestreamone.github.io/LinePC))
+	  ([TC02](https://lifestreamone.github.io/TC02))
 1. **6117810014 - [Pattama Thongprapai](https://pattamatax.github.io)**
 	* ([Hello World](https://github.com/pattamatax/pattamatax.github.io/blob/master/helloworld.c))
 	* ([Recoverability](https://gitlab.com/NEIS0736/2019/wikis/recoverability-Day2))
 	  ([TC01](https://pattamatax.github.io/TC01))
 	* ([Twitter](https://pattamatax.github.io/Twitter))
+	  ([TC02](https://pattamatax.github.io/TC02))
 1. **6117810012 - [Yuttapon Kunkot](https://ghost0000heavy.github.io/)**
 	* ([Hello World](https://github.com/ghost0000heavy/ghost0000heavy.github.io/blob/master/HelloWorld.php))
 	* ([Safety](https://gitlab.com/NEIS0736/2019/wikis/Safety))
