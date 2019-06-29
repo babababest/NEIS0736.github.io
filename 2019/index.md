@@ -48,11 +48,13 @@
 	* ([Hello World](https://github.com/chitsanuphongt/chitsanuphongt.github.io/blob/master/HelloWorld.py))
 	* ([Learnability](https://gitlab.com/NEIS0736/2019/wikis/Learnability))
 	  ([TC01](https://chitsanuphongt.github.io/TC01))
+	* ([TC02](https://chitsanuphongt.github.io/TC02))  
 1. **6117670003 - [Suparath Suwannakorth](https://babababest.github.io/)**
 	* ([Hello World](https://github.com/babababest/babababest.github.io/blob/master/Hello%20World.py))
 	* ([Availbility](https://gitlab.com/NEIS0736/2019/wikis/Availability))
 	  ([TC01](https://babababest.github.io/TC01))
 	* ([Shopee](https://babababest.github.io/Shopee-Authentication))
+	  ([TC02](https://babababest.github.io/TC02))
 1. **6117690002 - [Pornwilai Pitakwong](https://pornwilai.github.io/)\***
 	* ([Hello World](https://github.com/pornwilai/pornwilai-pornwilai.github.io/blob/master/helloworld.html))
 1. **6117690003 - [Dunlawan Sakuldee](https://dunlawan.github.io/)**
