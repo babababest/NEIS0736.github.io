@@ -63,6 +63,7 @@
 	* ([Hello World](https://github.com/Raksapon/raksapon.github.io/blob/master/Hello%20world.py))
 	* ([TC01](https://raksapon.github.io/TC01))
 	* ([O365](https://raksapon.github.io/o365))
+	  ([TC02](https://raksapon.github.io/TC02))
 1. **6117810003 - [Sirimongkol Wongfu](https://g3minii.github.io/)**
 	* ([Hello World](https://github.com/G3MINii/G3MINii.github.io/blob/master/hello.py))
 	* ([Modifiability](https://gitlab.com/NEIS0736/2019/wikis/Modifiability))
@@ -116,6 +117,7 @@
 	* ([Integrity](https://gitlab.com/NEIS0736/2019/wikis/Integrity))
 	  ([TC01](https://c61213on.github.io/TC01))
 	* ([Kahoot](https://c61213on.github.io/Kahoot))
+	  ([TC02](https://c61213on.github.io/TC02))
 1. **Certificate - [Ardnarong Boonkerd](https://ardnarong.github.io/)**
 	* ([Hello World](https://github.com/ardnarong/ardnarong.github.io/blob/master/helloworld.html))
 	* ([Testability](https://gitlab.com/NEIS0736/2019/wikis/Testability))
