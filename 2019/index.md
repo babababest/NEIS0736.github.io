@@ -179,10 +179,10 @@
 *  **Authentication** *(Cont'd)*
 *  **Test Level** ([ISTQB Glossary](https://glossary.istqb.org/en/search/test%20level))
 *  **Valid** *&* **Invalid** Test Cases ([ISTQB Glossary](https://glossary.istqb.org/en/search/invalid))
-*  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
 
 #### [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
+*  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
 *  [The **Twelve-Factor App**](https://12factor.net)
 
 #### [**Day 6**] - (***Sun***) **Jul 14,** 2019 (***15:30 - 18:30***)
