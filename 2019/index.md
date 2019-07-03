@@ -179,6 +179,7 @@
 *  **Authentication** *(Cont'd)*
 *  **Test Level** ([ISTQB Glossary](https://glossary.istqb.org/en/search/test%20level))
 *  **Valid** *&* **Invalid** Test Cases ([ISTQB Glossary](https://glossary.istqb.org/en/search/invalid))
+*  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-4)** *by **Pattama T.***
 
 #### [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
