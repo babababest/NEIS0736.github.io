@@ -133,6 +133,8 @@
 	* ([Hello World](https://github.com/ardnarong/ardnarong.github.io/blob/master/helloworld.html))
 	* ([Testability](https://gitlab.com/NEIS0736/2019/wikis/Testability))
 	  ([TC01](https://ardnarong.github.io/TC01))
+	* ([Bitbucket](https://ardnarong.github.io/Bitbucket-Authentication))
+	  ([TC02](https://ardnarong.github.io/TC02))
 1. **Certificate - Boonma Sirinitsriwong\***
 	* (Hello World\*)
 	* ([Standards Compliance](https://gitlab.com/NEIS0736/2019/wikis/standards-compliance))
@@ -174,7 +176,6 @@
 ### [**Day 4**] - (Sat) **Jun 29,** 2019
 *  **MiSS**x***Talks***
    * *Pongpat R.*
-   * *Pattama T.*
 *  **Precondition** ([ISTQB Glossary](https://glossary.istqb.org/en/search/precondition))
 *  **Authentication** *(Cont'd)*
 *  **Test Level** ([ISTQB Glossary](https://glossary.istqb.org/en/search/test%20level))
@@ -184,9 +185,9 @@
 #### [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
 *  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
-*  [The **Twelve-Factor App**](https://12factor.net)
 
 #### [**Day 6**] - (***Sun***) **Jul 14,** 2019 (***15:30 - 18:30***)
+*  [The **Twelve-Factor App**](https://12factor.net)
 *  **Integrated Environment** for **Self Learning** by Students
 
 #### [**Day 7**] - (Sat) **Jul 20,** 2019
