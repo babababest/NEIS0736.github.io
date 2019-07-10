@@ -186,11 +186,11 @@
 *  **MiSS**x***Talks***
 *  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
 
-#### [**Day 6**] - (***Sun***) **Jul 14,** 2019 (***15:30 - 18:30***)
+#### [**Day 6**] - (Sat) **Jul 20,** 2019
 *  [The **Twelve-Factor App**](https://12factor.net)
 *  **Integrated Environment** for **Self Learning** by Students
 
-#### [**Day 7**] - (Sat) **Jul 20,** 2019
+#### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks*** Special
 
 ---
