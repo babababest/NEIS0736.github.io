@@ -195,7 +195,7 @@
 
 ---
 
-#### [**Semi-final Examination**]
+#### [**Semi-final Examination**] **(Sun) Aug 4, 2019 (AM)**
 
 *  ***Keywords***
 	* Test Case Writing
