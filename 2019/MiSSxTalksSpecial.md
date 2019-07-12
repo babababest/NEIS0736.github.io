@@ -12,5 +12,7 @@
 * 10:45 - 12:00 : **"Case Studies in Secure Development Lifecycle"** by **Khun Nop Phoomthaisong** *(MAYASEVEN CO.,LTD.)*
 * 12:00 - 13:00 : Lunch
 * 13:00 - 14:30 : **"Secure Software Design (Part II)"** by **Khun Narudom Roongsiriwong**
+* 14:30 - 15:30 : **Waiting...**
+* 15:30 - 15:45 : **Closing** by **Khun Maykin Warasart** *(NEIS0736 Instructor)*
 
 **Registration** : *[https://MiSSxTalks.eventbrite.com](https://MiSSxTalks.eventbrite.com)*
