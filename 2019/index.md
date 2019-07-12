@@ -253,5 +253,5 @@
 	1. 12:15 - 12:30
 	1. 12:30 - 12:45
 
-#### [**Final Examination**] - *(Lec + Lab)*
+#### [**Final Examination**] - *(Lec + Lab)* - **TBA**
 
