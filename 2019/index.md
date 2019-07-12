@@ -187,6 +187,8 @@
 
 #### [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
+   * *Angkarn P.*
+   * *Pattama T.*
 *  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
 
 #### [**Day 6**] - (Sat) **Jul 20,** 2019
