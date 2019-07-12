@@ -189,14 +189,15 @@
 *  **MiSS**x***Talks***
    * *Angkarn P.*
    * *Pattama T.*
+*  **Security Requirements**
 *  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
 
 #### [**Day 6**] - (Sat) **Jul 20,** 2019
-*  [The **Twelve-Factor App**](https://12factor.net)
-*  **Integrated Environment** for **Self Learning** by Students
+*  **MiSS**x***Talks*** Special
 
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
-*  **MiSS**x***Talks*** Special
+*  [The **Twelve-Factor App**](https://12factor.net)
+*  **Integrated Environment** for **Self Learning** by Students
 
 ---
 
