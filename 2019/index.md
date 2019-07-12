@@ -197,7 +197,6 @@
 
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 *  [The **Twelve-Factor App**](https://12factor.net)
-*  **Integrated Environment** for **Self Learning** by Students
 
 ---
 
@@ -212,6 +211,7 @@
 ---
 
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
+*  **Integrated Environment** for **Self Learning** by Students
 *  **Code Review**
 
 <a name="HereWeFix"></a>
@@ -236,6 +236,19 @@
 
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
 *  **Wrap-up**
+*  **One-on-one**
+	1 09:00 - 09:15
+	1 09:15 - 09:30
+	1 09:30 - 09:45
+	1 09:45 - 09:00
+	1 10:00 - 10:15
+	1 10:15 - 10:30
+	1 10:30 - 10:45
+	1 10:45 - 11:00
+	1 11:00 - 11:15
+	1 11:15 - 11:30
+	1 11:30 - 11:45
+	1 11:45 - 12:00
 
 #### [**Final Examination**] - *(Lec + Lab)*
 
