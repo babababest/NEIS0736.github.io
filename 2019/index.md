@@ -9,8 +9,7 @@
 
 **MiSS**x***Talks* [[Registration](https://gitlab.com/NEIS0736/2019/wikis/MiSSxTalks)]**
 
-*  (Jul 13) 
-	* **Angkarn Pummarin** (Certificate) - "***Why use threat modeling & how to use it.***"
+*  (Jul 21)
 	* **Pattama Thongprapai** (6117810014) - "***Why code reviews matter (and actually save time!)***"
 *  (Aug 10)
 	* **Tossaporn Hansing** (6117810016)
@@ -35,6 +34,8 @@
 
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
+*  (Jul 13) 
+	* **Angkarn Pummarin** (Certificate) - "***Why use threat modeling & how to use it.***"
 
 ---
 
@@ -203,7 +204,6 @@
 #### [**Day 5**] - (Sat) **Jul 13,** 2019
 *  **MiSS**x***Talks***
    * *Angkarn P.*
-   * *Pattama T.*
 *  **Security Requirements**
 *  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
 
@@ -211,6 +211,8 @@
 *  **MiSS**x***Talks*** Special
 
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
+*  **MiSS**x***Talks***
+   * *Pattama T.*
 *  [The **Twelve-Factor App**](https://12factor.net)
 
 ---
