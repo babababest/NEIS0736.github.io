@@ -44,7 +44,8 @@
 	* ([Hello World](https://github.com/peranol/peranol.github.io/blob/master/hello%20world.php))
 	* ([Responsiveness](https://gitlab.com/NEIS0736/2019/wikis/Responsiveness))
 	  ([TC01](https://peranol.github.io/TC01))
-	* ([TC01](https://peranol.github.io/TC02))
+	* ([TC02](https://peranol.github.io/TC02))
+	* ([TC03](https://peranol.github.io/TC03-9.2.5))
 1. **6017810010 - [Pongpat Rakdej](https://pp717.github.io/)** 
 	* ([Hello World](https://github.com/pp717/pp717.github.io/blob/master/helloworld.c))
 	* ([Maintainability](https://gitlab.com/NEIS0736/2019/wikis/Maintainability))
