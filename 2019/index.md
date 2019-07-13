@@ -259,7 +259,7 @@
 	1. 09:45 - 09:00
 	1. 10:00 - 10:15 : Khun Tanapad Onsri
 	1. 10:15 - 10:30 : Khun Sirimongkol Wongfu
-	1. 10:30 - 10:45
+	1. 10:30 - 10:45 : Khun Mutchima Chuensart
 	1. 10:45 - 11:00 : Khun Pattama Thongprapai
 	1. 11:00 - 11:15
 	1. 11:15 - 11:30
