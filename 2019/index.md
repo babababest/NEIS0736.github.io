@@ -206,6 +206,7 @@
    * *Angkarn P.*
 *  **Security Requirements**
 *  The **Application Security Verification Standard ([ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project))**
+*  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-5)** *by **Angkarn P.***
 
 #### [**Day 6**] - (Sat) **Jul 20,** 2019
 *  **MiSS**x***Talks*** Special
