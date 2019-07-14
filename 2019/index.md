@@ -214,6 +214,7 @@
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
    * *Pattama T.*
+*  [OWASP **Testing Guide**](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 *  [The **Twelve-Factor App**](https://12factor.net)
 
 ---
