@@ -30,7 +30,7 @@
     * **Yuttapon Kunkot** (6117810012) - "***Introduction to OWASP ZAP for Web Application Security Assessments***"
 	* **Wissanu Sameejaeng** (6117810011)
 
-**Passed** (https://gitlab.com/NEIS0736/2019/tree/master/Slides)
+**Passed** ([Slides](https://gitlab.com/NEIS0736/2019/tree/master/Slides))
 
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
