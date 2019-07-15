@@ -35,7 +35,7 @@
 *  (Jun 29)
 	* **Pongpat Rakdej** (6017810010) - "***High Performance Computing***"
 *  (Jul 13) 
-	* **Angkarn Pummarin** (Certificate) - "***Why use threat modeling & how to use it.***"
+	* **Angkarn Pummarin** (Certificate) - "***[Why use threat modeling & how to use it.](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf)***"
 
 ---
 
@@ -148,6 +148,7 @@
 	* ([Kahoot](https://c61213on.github.io/Kahoot))
 	  ([TC02](https://c61213on.github.io/TC02))
 	* ([TC03](https://c61213on.github.io/TC03-2.1.5))
+	* ([MiSSxTalk](https://gitlab.com/NEIS0736/2019/blob/master/Slides/NEIS0736_Why_use_threat_modeling_&_How_to_use_it_v1.0.pdf))
 1. **Certificate - [Ardnarong Boonkerd](https://ardnarong.github.io/)**
 	* ([Hello World](https://github.com/ardnarong/ardnarong.github.io/blob/master/helloworld.html))
 	* ([Testability](https://gitlab.com/NEIS0736/2019/wikis/Testability))
