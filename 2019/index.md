@@ -214,7 +214,7 @@
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 *  **MiSS**x***Talks***
    * *Pattama T.*
-*  [OWASP **Testing Guide**](https://www.owasp.org/index.php/OWASP_Testing_Project)
+*  [OWASP **Testing Guide**](https://www.owasp.org/index.php/OWASP_Testing_Project), a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues
 *  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
 
 ---
