@@ -212,6 +212,7 @@
 #### [**Day 6**] - (Sat) **Jul 20,** 2019
 *  **MiSS**x***Talks*** Special
 
+<a name="OneOnOne"></a>
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 *  **One-on-one Assessment**
 	1. 10:31 - 10:45 : Khun Sirimongkol Wongfu (***Paolo Memorial***)
@@ -247,17 +248,17 @@
    * *Pattama T.*
 *  [OWASP **Testing Guide**](https://www.owasp.org/index.php/OWASP_Testing_Project), a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues.
 *  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
-*  [The **Twelve-Factor App**](https://12factor.net)
-*  **Integrated Environment** for **Self Learning** by Students
-*  **Code Review**
 
 <a name="HereWeFix"></a>
 #### [**Day 9**] - (Sat) **Aug 17,** 2019
 *  **MiSS**x***Talks***
-*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
+*  [The **Twelve-Factor App**](https://12factor.net)
+*  **Integrated Environment** for **Self Learning** by Students
 
 #### [**Day 10**] - (Sat) **Aug 24,** 2019
 *  **MiSS**x***Talks***
+*  **Code Review**
+*  **[#HereWeFix](https://www.google.com/search?q=%23HereWeFix)** *Contest*
 
 #### [**Day 11**] - (Sat) **Aug 31,** 2019
 *  **MiSS**x***Talks***
@@ -271,7 +272,6 @@
 #### [**Day 14**] - (Sat) **Sep 21,** 2019
 *  **MiSS**x***Talks***
 
-<a name="OneOnOne"></a>
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
 
 #### [**Final Examination**] - *(Lec + Lab)* - **TBA**
