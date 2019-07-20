@@ -226,8 +226,7 @@
 	1. 16:46 - 17:00 : Khun Suparath Suwannakorth (***True LAB Meeting Room***)
 	1. 17:01 - 17:15 : Khun Ardnarong Boonkerd (***True LAB Meeting Room***)
 	1. 17:16 - 17:30 : Khun Raksapon Leelachat (***True LAB Meeting Room***)
-	1. 17:31 - 17:45 
-	1. 17:46 - 18:00
+	1. 17:31 - 17:45 : Khun Yuttapon Kunkot (***True LAB Meeting Room***)
 
 ---
 
