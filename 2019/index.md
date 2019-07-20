@@ -213,10 +213,20 @@
 *  **MiSS**x***Talks*** Special
 
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
-*  **MiSS**x***Talks***
-   * *Pattama T.*
-*  [OWASP **Testing Guide**](https://www.owasp.org/index.php/OWASP_Testing_Project), a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues.
-*  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
+*  **One-on-one**
+	1. 15:31 - 15:45 : Khun Chalermwut Likasitwong
+	1. 15:46 - 16:00 : Khun Angkarn Pummarin
+	1. 16:01 - 16:15
+	1. 16:16 - 16:30
+	1. 16:31 - 16:45 : Khun Tanapad Onsri
+	1. 16:46 - 17:00 : Khun Sirimongkol Wongfu
+	1. 17:01 - 17:16 : Khun Mutchima Chuensart
+	1. 17:31 - 17:45 : Khun Pattama Thongprapai
+	1. 17:46 - 18:00
+	1. 18:01 - 18:15
+	1. 18:16 - 18:30
+	1. 18:31 - 18:45
+	1. 18:46 - 19:00
 
 ---
 
@@ -232,6 +242,10 @@
 ---
 
 #### [**Day 8**] - (Sat) **Aug 10,** 2019
+*  **MiSS**x***Talks***
+   * *Pattama T.*
+*  [OWASP **Testing Guide**](https://www.owasp.org/index.php/OWASP_Testing_Project), a "best practice" penetration testing framework which users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues.
+*  [OWASP **Proactive Controls**](https://www.owasp.org/index.php/OWASP_Proactive_Controls), the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
 *  [The **Twelve-Factor App**](https://12factor.net)
 *  **Integrated Environment** for **Self Learning** by Students
 *  **Code Review**
@@ -258,22 +272,6 @@
 
 <a name="OneOnOne"></a>
 #### [**Day 15**] - (Sat) **Sep 28,** 2019
-*  **One-on-one**
-	1. 09:00 - 09:15 : Khun Angkarn Pummarin
-	1. 09:15 - 09:30
-	1. 09:30 - 09:45
-	1. 09:45 - 09:00
-	1. 10:00 - 10:15 : Khun Tanapad Onsri
-	1. 10:15 - 10:30 : Khun Sirimongkol Wongfu
-	1. 10:30 - 10:45 : Khun Mutchima Chuensart
-	1. 10:45 - 11:00 : Khun Pattama Thongprapai
-	1. 11:00 - 11:15
-	1. 11:15 - 11:30
-	1. 11:30 - 11:45
-	1. 11:45 - 12:00
-	1. 12:00 - 12:15
-	1. 12:15 - 12:30
-	1. 12:30 - 12:45
 
 #### [**Final Examination**] - *(Lec + Lab)* - **TBA**
 
