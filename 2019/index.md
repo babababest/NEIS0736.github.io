@@ -214,6 +214,7 @@
 
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 *  **One-on-one**
+	1. 10:31 - 10:45 : Khun Sirimongkol Wongfu (Paolo Memorial)
 	1. 15:31 - 15:45 : Khun Chalermwut Likasitwong
 	1. 15:46 - 16:00 : Khun Angkarn Pummarin
 	1. 16:01 - 16:15
@@ -226,7 +227,6 @@
 	1. 17:46 - 18:00
 	1. 18:01 - 18:15
 	1. 18:16 - 18:30
-	1. 18:31 - 18:45
 
 ---
 
