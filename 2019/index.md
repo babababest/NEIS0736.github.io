@@ -220,13 +220,13 @@
 	1. 16:16 - 16:30
 	1. 16:31 - 16:45 : Khun Tanapad Onsri
 	1. 16:46 - 17:00 : Khun Sirimongkol Wongfu
-	1. 17:01 - 17:16 : Khun Mutchima Chuensart
-	1. 17:31 - 17:45 : Khun Pattama Thongprapai
+	1. 17:01 - 17:15 : Khun Mutchima Chuensart
+	1. 17:16 - 17:30 : Khun Pattama Thongprapai
+	1. 17:31 - 17:45 : Khun Suparath Suwannakorth
 	1. 17:46 - 18:00
 	1. 18:01 - 18:15
 	1. 18:16 - 18:30
 	1. 18:31 - 18:45
-	1. 18:46 - 19:00
 
 ---
 
