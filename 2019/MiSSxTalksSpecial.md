@@ -16,3 +16,7 @@
 * 14:45 - 15:00 : **Closing** by **Khun Maykin Warasart** *(NEIS0736 Instructor)*
 
 **Registration** : *[https://MiSSxTalks.eventbrite.com](https://MiSSxTalks.eventbrite.com)*
+
+---
+
+![](MiSSxTalks/GroupPhoto.jpg "#MiSSxTalks Special 2019")
