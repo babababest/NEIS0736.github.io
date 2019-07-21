@@ -217,7 +217,7 @@
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 *  **One-on-one Assessment**
 	1. 10:31 - 10:45 : Khun Sirimongkol Wongfu (***Paolo Memorial***) - [**Done**](OneOnOne/SirimongkolW)!
-	1. 14:01 - 14:06 : Khun Peranol Akkarasarateera (***True Coffee***)
+	1. 14:01 - 14:06 : Khun Peranol Akkarasarateera (***True Coffee***) - [**Done**](OneOnOne/PeranolA)!
 	1. 15:01 - 15:15 : Khun Angkarn Pummarin (***True Coffee***)
 	1. 15:16 - 15:30 : Khun Pattama Thongprapai (***True Coffee***)
 	1. 15:31 - 15:45 : Khun Chalermwut Likasitwong (***True LAB Meeting Room***)
