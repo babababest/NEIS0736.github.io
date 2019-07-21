@@ -236,8 +236,9 @@
 #### [**Semi-final Examination**] - *(Sun)* **Aug 4, 2019** *(AM)*
 
 *  ***Keywords***
-	* Test Case Writing
-	* Criticize Test Case
+	* Testable Security Requirement
+	* Security Test Case
+	* Criticize the Test Cases
 	* Passed/Failed
 	* Fuzz Testing *(plus)*
 	* Hypervisor *(plus)*
