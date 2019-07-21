@@ -220,7 +220,7 @@
 	1. 14:01 - 14:06 : Khun Peranol Akkarasarateera (***True Coffee***) - [**Done**](OneOnOne/PeranolA)!
 	1. 15:01 - 15:15 : Khun Angkarn Pummarin (***True Coffee***)
 	1. 15:16 - 15:30 : Khun Pattama Thongprapai (***True Coffee***) - [**Done**](OneOnOne/PattamaT)!
-	1. 15:31 - 15:45 : Khun Chalermwut Likasitwong (***True LAB Meeting Room***)
+	1. 15:31 - 15:45 : Khun Chalermwut Likasitwong (***True Coffee***) - [**Done**](OneOnOne/ChalermwutL)!
 	1. 15:46 - 16:00 : Khun Tossaporn Hansing (***True LAB Meeting Room***)
 	1. 16:01 - 16:15 : Khun Wissanu Sameejaeng (***True LAB Meeting Room***)
 	1. 16:16 - 16:30 : Khun Mutchima Chuensart (***True LAB Meeting Room***)
