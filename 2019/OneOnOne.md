@@ -1,8 +1,7 @@
 # **#OneOnOne Assessment**!
 
 ---
-
-#### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
+* (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
 
 	1. 10:31 - 10:45 : Khun Sirimongkol Wongfu (***Paolo Memorial***) - [**Done**](OneOnOne/SirimongkolW)!
 	1. 14:01 - 14:06 : Khun Peranol Akkarasarateera (***true coffee***) - [**Done**](OneOnOne/PeranolA)!
