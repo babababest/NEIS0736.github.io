@@ -218,7 +218,6 @@
 *  **One-on-one Assessment**
 	1. 10:31 - 10:45 : Khun Sirimongkol Wongfu (***Paolo Memorial***) - [**Done**](OneOnOne/SirimongkolW)!
 	1. 14:01 - 14:06 : Khun Peranol Akkarasarateera (***true coffee***) - [**Done**](OneOnOne/PeranolA)!
-	1. 15:01 - 15:15 : Khun Angkarn Pummarin (***true LAB Meeting Room***) - [**Done**](OneOnOne/AngkarnP)!
 	1. 15:16 - 15:30 : Khun Pattama Thongprapai (***true coffee***) - [**Done**](OneOnOne/PattamaT)!
 	1. 15:31 - 15:45 : Khun Chalermwut Likasitwong (***true coffee***) - [**Done**](OneOnOne/ChalermwutL)!
 	1. 15:46 - 16:00 : Khun Tossaporn Hansing (***true coffee***) - [**Done**](OneOnOne/TossapornH)!
@@ -230,6 +229,7 @@
 	1. 17:16 - 17:30 : Khun Raksapon Leelachat (***true coffee***) - [**Done**](OneOnOne/RaksaponL)!
 	1. 17:31 - 17:45 : Khun Yuttapon Kunkot (***true LAB Meeting Room***) - [**Done**](OneOnOne/YuttaponK)!
 	1. 17:46 - 18:00 : Khun Pongpat Petchai (***true LAB Meeting Room***) - [**Done**](OneOnOne/PongpatP)!
+	1. 18:01 - 18:16 : Khun Angkarn Pummarin (***true LAB Meeting Room***) - [**Done**](OneOnOne/AngkarnP)!
 
 ---
 
