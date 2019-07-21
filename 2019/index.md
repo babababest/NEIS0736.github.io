@@ -3,7 +3,7 @@
 ---
 
 * [GitLab **Wiki** Page](https://gitlab.com/NEIS0736/2019/wikis/README)
-* [[**MiSS**x***Talks*** Special : **July 20, 2019**](MiSSxTalksSpecial)]
+* [**MiSS**x***Talks*** Special : **July 20, 2019**](MiSSxTalksSpecial)
 * <a name="OneOnOne">#OneOnOne Assessment</a>
 
 ---
@@ -211,7 +211,7 @@
 *  **[Scribe of the day](https://gitlab.com/NEIS0736/2019/wikis/Scribe-of-Day-5)** *by **Angkarn P.***
 
 #### [**Day 6**] - (Sat) **Jul 20,** 2019
-*  [**MiSS**x***Talks*** Special]((MiSSxTalksSpecial))
+*  [**MiSS**x***Talks*** Special](MiSSxTalksSpecial)
 
 <a name="OneOnOne"></a>
 #### [**Day 7**] - (***Sun***) **Jul 21,** 2019 (***15:30 - 18:30***)
