@@ -221,13 +221,13 @@
 	1. 15:01 - 15:15 : Khun Angkarn Pummarin (***true coffee***)
 	1. 15:16 - 15:30 : Khun Pattama Thongprapai (***true coffee***) - [**Done**](OneOnOne/PattamaT)!
 	1. 15:31 - 15:45 : Khun Chalermwut Likasitwong (***true coffee***) - [**Done**](OneOnOne/ChalermwutL)!
-	1. 15:46 - 16:00 : Khun Tossaporn Hansing (***True LAB Meeting Room***) - [**Done**](OneOnOne/TossapornH)!
-	1. 16:01 - 16:15 : Khun Wissanu Sameejaeng (***True LAB Meeting Room***) - [**Done**](OneOnOne/WissanuS)!
-	1. 16:16 - 16:30 : Khun Mutchima Chuensart (***True LAB Meeting Room***) - [**Done**](OneOnOne/MutchimaC)!
-	1. 16:31 - 16:45 : Khun Tanapad Onsri (***True LAB Meeting Room***) - [**Done**](OneOnOne/TanapadO)!
-	1. 16:46 - 17:00 : Khun Suparath Suwannakorth (***True LAB Meeting Room***) - [**Done**](OneOnOne/SuparathS)!
-	1. 17:01 - 17:15 : Khun Ardnarong Boonkerd (***True LAB Meeting Room***)
-	1. 17:16 - 17:30 : Khun Raksapon Leelachat (***True LAB Meeting Room***)
+	1. 15:46 - 16:00 : Khun Tossaporn Hansing (***true coffee***) - [**Done**](OneOnOne/TossapornH)!
+	1. 16:01 - 16:15 : Khun Wissanu Sameejaeng (***true coffee***) - [**Done**](OneOnOne/WissanuS)!
+	1. 16:16 - 16:30 : Khun Mutchima Chuensart (***true coffee***) - [**Done**](OneOnOne/MutchimaC)!
+	1. 16:31 - 16:45 : Khun Tanapad Onsri (***true coffee***) - [**Done**](OneOnOne/TanapadO)!
+	1. 16:46 - 17:00 : Khun Suparath Suwannakorth (***true coffee***) - [**Done**](OneOnOne/SuparathS)!
+	1. 17:01 - 17:15 : Khun Ardnarong Boonkerd (***true coffee***) - [**Done**](OneOnOne/ArdnarongB)!
+	1. 17:16 - 17:30 : Khun Raksapon Leelachat (***true coffee***)
 	1. 17:31 - 17:45 : Khun Yuttapon Kunkot (***True LAB Meeting Room***)
 	1. 17:46 - 18:00 : Khun Pongpat Petchai (***True LAB Meeting Room***)
 
