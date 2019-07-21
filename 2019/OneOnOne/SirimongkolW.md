@@ -5,4 +5,4 @@
 # One-on-One Assessment
 Khun **Sirimongkol Wongfu**
 
-![](/OneOnOne/SirimongkolW.jpg "Sirimongkol Wongfu")
+![](OneOnOne/SirimongkolW.jpg "Sirimongkol Wongfu")
