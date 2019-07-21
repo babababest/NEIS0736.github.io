@@ -239,6 +239,7 @@
 	* Testable Security Requirement
 	* Security Test Case
 	* Criticize the Test Cases
+	* Test Case with Precondition
 	* Passed/Failed
 	* Fuzz Testing *(plus)*
 	* Hypervisor *(plus)*
