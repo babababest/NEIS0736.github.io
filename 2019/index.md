@@ -3,7 +3,7 @@
 ---
 
 * [GitLab **Wiki** Page](https://gitlab.com/NEIS0736/2019/wikis/README)
-* [**MiSS**x***Talks*** Special : **July 20, 2019**](MiSSxTalksSpecial)
+* [[**MiSS**x***Talks*** Special : **July 20, 2019**](MiSSxTalksSpecial)]
 * <a name="OneOnOne">#OneOnOne Assessment</a>
 
 ---
